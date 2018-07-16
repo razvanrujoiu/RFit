@@ -1,0 +1,6 @@
+framework module Pods_RFit_WatchKit_Extension {
+  umbrella header "Pods-RFit WatchKit Extension-umbrella.h"
+
+  export *
+  module * { export * }
+}
